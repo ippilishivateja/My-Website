@@ -1,0 +1,17 @@
+---
+title: "Achivements"
+---
+
+-   *Gave a paper presentation on “CYBER SECURITY THROUGH MACHINE LEARNING” in
+    JNTU, Kakinada.*
+
+-   *Gave a Paper presentation on “BLUE EYES TECHNOLOGY” in VITAM,Visakhapatnam and WON
+    first prize.*
+
+-   *Participated in workshop on “IoT USING RASPBERRY PI” held at GMRIT, Rajam.*
+
+-   *Participated in QUIZ competition held at VITAM,Visakhapatnam.*
+
+-   *Won first prize in the event “WORD MANIA” held at GMRIT,Rajam.*
+
+-   *Won first prize in the event “WIN AS MUCH AS YOU CAN” held at GMRIT,Rajam.*

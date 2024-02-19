@@ -1,0 +1,30 @@
+[
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "About Me",
+    "section": "",
+    "text": "Hi There 👋, I’m Shiva teja.\nI am a dedicated, adaptable individual with a creative mindset and a knack for problem-solving. I pride myself on being a reliable team player with excellent communication skills, capable of collaborating effectively with others to achieve common goals. With a positive attitude and resilient spirit, I approach challenges with optimism and perseverance, always seeking out opportunities for growth and learning. My commitment to continuous improvement drives me to adapt to new situations with ease and find innovative solutions to complex problems.\n\n\nMy Professional Carrier 👨‍💼\nI pursued my undergraduate studies at GMR Institute of Technology. Following four years of diligent effort, I secured placement through campus recruitment and commenced my career at Wipro Technologies as a Project Engineer. During my tenure of 2.5 years at Wipro, I actively contributed to two projects centered around mobile communications for Ericsson, a prestigious client. In addition to these projects, I independently developed three automation tools utilizing Java. Eager to enhance my expertise, I resolved to advance my skills by pursuing a Master’s degree in Data Analytics at George Mason University.\nReach out to me on ippilishivateja97@gmail.com"
+  },
+  {
+    "objectID": "about.html",
+    "href": "about.html",
+    "title": "About",
+    "section": "",
+    "text": "About this site\n\n1 + 1\n\n[1] 2"
+  },
+  {
+    "objectID": "Projects.html",
+    "href": "Projects.html",
+    "title": "Projects",
+    "section": "",
+    "text": "I Worked on the below projects till date:\n\n\npredicting emoji from text using deep learning\nweather prediction with machine learning\ncyber security through machine learning"
+  },
+  {
+    "objectID": "Achivements.html",
+    "href": "Achivements.html",
+    "title": "Achivements",
+    "section": "",
+    "text": "Gave a paper presentation on “CYBER SECURITY THROUGH MACHINE LEARNING” in JNTU, Kakinada.\nGave a Paper presentation on “BLUE EYES TECHNOLOGY” in VITAM,Visakhapatnam and WON first prize.\nParticipated in workshop on “IoT USING RASPBERRY PI” held at GMRIT, Rajam.\nParticipated in QUIZ competition held at VITAM,Visakhapatnam.\nWon first prize in the event “WORD MANIA” held at GMRIT,Rajam.\nWon first prize in the event “WIN AS MUCH AS YOU CAN” held at GMRIT,Rajam."
+  }
+]
